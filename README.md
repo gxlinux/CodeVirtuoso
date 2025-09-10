@@ -32,3 +32,10 @@ gcc main.c -o ejemplo
 
 # Ejecutar
 ./ejemplo
+#codevirtuoso/
+│── cli/        # Programas de línea de comandos
+│── tui/        # Interfaces de texto con ncurses u otras librerías
+│── gui/        # Interfaces gráficas con GTK, SDL, etc.
+│── docs/       # Documentación y notas
+└── README.md   # Este archivo
+
